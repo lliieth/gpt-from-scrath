@@ -1,15 +1,19 @@
-# GPT From Scratch Arabic
+# Arabic GPT Project
 
-Simple GPT-style transformer built from scratch using PyTorch.
+This project is a simple implementation of a GPT-style transformer model for Arabic text.
 
-Project Structure:
+## Project Description
+The goal of this project is to build a simplified GPT model from scratch using Python.  
+The project demonstrates how the transformer architecture works, including attention mechanisms and training steps.
 
-src/model
-src/tokenizer
-src/training
-src/evaluation
-src/demo
+## Project Files
+- transformer.py : Implementation of the transformer model
+- attention.py : Attention mechanism used in the model
+- pretrain.py : Script used for pretraining the model
+- finetune.py : Script used for fine-tuning the model
+- requirements.txt : Python libraries required to run the project
+- Untitled15.ipynb : Notebook for running the project in Google Colab
 
-Run training:
+## How to Run the Project
 
-python src/training/pretrain.py
+1. Install the required libraries:
