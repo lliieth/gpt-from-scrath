@@ -1,0 +1,19 @@
+Cybersecurity protects systems and networks from digital attacks.
+
+Malware is malicious software designed to damage systems.
+
+Phishing attacks trick users into revealing sensitive information.
+
+Ransomware encrypts files and demands payment.
+
+A vulnerability is a weakness that attackers exploit.
+
+Encryption protects sensitive data from unauthorized access.
+
+Firewalls monitor and control network traffic.
+
+Authentication verifies a user's identity.
+
+Intrusion detection systems monitor networks for attacks.
+
+Security analysts investigate cyber threats.
