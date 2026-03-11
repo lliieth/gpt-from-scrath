@@ -1,0 +1,8 @@
+Prompt: Explain malware
+Output: Malware is malicious software designed to damage systems.
+
+Prompt: What is phishing?
+Output: Phishing is a cyber attack that tricks users into giving sensitive information.
+
+Prompt: Define encryption
+Output: Encryption protects data by converting it into unreadable form.
