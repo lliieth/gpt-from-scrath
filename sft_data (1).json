@@ -1,0 +1,1002 @@
+[
+  {
+    "instruction": "What is malware?",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "What is phishing?",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "What is ransomware?",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "What is firewall?",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "What is encryption?",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "What is vulnerability?",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "What is exploit?",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "What is authentication?",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "What is botnet?",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "What is rootkit?",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Explain malware in simple words.",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "Explain phishing in simple words.",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "Explain ransomware in simple words.",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "Explain firewall in simple words.",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "Explain encryption in simple words.",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "Explain vulnerability in simple words.",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "Explain exploit in simple words.",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "Explain authentication in simple words.",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "Explain botnet in simple words.",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "Explain rootkit in simple words.",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Malware is malicious software designed to damage or exploit systems.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Phishing is a social engineering attack used to steal user credentials.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Ransomware is malware that encrypts files and demands payment.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "A firewall monitors and controls incoming and outgoing network traffic.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Encryption protects data by converting it into unreadable form.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "A vulnerability is a weakness in a system that can be exploited.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "An exploit is code or a method used to take advantage of a vulnerability.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Authentication verifies the identity of a user or device.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "A botnet is a group of infected devices controlled by an attacker.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "A rootkit is malicious software designed to hide itself inside a system.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to English",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Cybersecurity includes technologies and processes used to protect systems and networks.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Phishing attacks rely on deception to steal sensitive information.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Encryption is important because it protects confidential data.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "A firewall helps control network traffic and blocks suspicious connections.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Malware can damage files, steal data, or disrupt services.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "اشرح الجملة التالية",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "What is malware? #46",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "What is phishing? #47",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "What is ransomware? #48",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "What is firewall? #49",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "What is encryption? #50",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "What is vulnerability? #51",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "What is exploit? #52",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "What is authentication? #53",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "What is botnet? #54",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "What is rootkit? #55",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Explain malware in simple words. #56",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "Explain phishing in simple words. #57",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "Explain ransomware in simple words. #58",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "Explain firewall in simple words. #59",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "Explain encryption in simple words. #60",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "Explain vulnerability in simple words. #61",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "Explain exploit in simple words. #62",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "Explain authentication in simple words. #63",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "Explain botnet in simple words. #64",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "Explain rootkit in simple words. #65",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Translate to Arabic #66",
+    "input": "Malware is malicious software designed to damage or exploit systems.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #67",
+    "input": "Phishing is a social engineering attack used to steal user credentials.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #68",
+    "input": "Ransomware is malware that encrypts files and demands payment.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #69",
+    "input": "A firewall monitors and controls incoming and outgoing network traffic.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #70",
+    "input": "Encryption protects data by converting it into unreadable form.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #71",
+    "input": "A vulnerability is a weakness in a system that can be exploited.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #72",
+    "input": "An exploit is code or a method used to take advantage of a vulnerability.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #73",
+    "input": "Authentication verifies the identity of a user or device.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #74",
+    "input": "A botnet is a group of infected devices controlled by an attacker.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #75",
+    "input": "A rootkit is malicious software designed to hide itself inside a system.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to English #76",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #77",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #78",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #79",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #80",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Summarize the following text #81",
+    "input": "Cybersecurity includes technologies and processes used to protect systems and networks.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #82",
+    "input": "Phishing attacks rely on deception to steal sensitive information.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #83",
+    "input": "Encryption is important because it protects confidential data.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #84",
+    "input": "A firewall helps control network traffic and blocks suspicious connections.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #85",
+    "input": "Malware can damage files, steal data, or disrupt services.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #86",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #87",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #88",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #89",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #90",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "What is malware? #91",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "What is phishing? #92",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "What is ransomware? #93",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "What is firewall? #94",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "What is encryption? #95",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "What is vulnerability? #96",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "What is exploit? #97",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "What is authentication? #98",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "What is botnet? #99",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "What is rootkit? #100",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Explain malware in simple words. #101",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "Explain phishing in simple words. #102",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "Explain ransomware in simple words. #103",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "Explain firewall in simple words. #104",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "Explain encryption in simple words. #105",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "Explain vulnerability in simple words. #106",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "Explain exploit in simple words. #107",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "Explain authentication in simple words. #108",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "Explain botnet in simple words. #109",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "Explain rootkit in simple words. #110",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Translate to Arabic #111",
+    "input": "Malware is malicious software designed to damage or exploit systems.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #112",
+    "input": "Phishing is a social engineering attack used to steal user credentials.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #113",
+    "input": "Ransomware is malware that encrypts files and demands payment.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #114",
+    "input": "A firewall monitors and controls incoming and outgoing network traffic.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #115",
+    "input": "Encryption protects data by converting it into unreadable form.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #116",
+    "input": "A vulnerability is a weakness in a system that can be exploited.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #117",
+    "input": "An exploit is code or a method used to take advantage of a vulnerability.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #118",
+    "input": "Authentication verifies the identity of a user or device.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #119",
+    "input": "A botnet is a group of infected devices controlled by an attacker.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #120",
+    "input": "A rootkit is malicious software designed to hide itself inside a system.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to English #121",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #122",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #123",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #124",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #125",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Summarize the following text #126",
+    "input": "Cybersecurity includes technologies and processes used to protect systems and networks.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #127",
+    "input": "Phishing attacks rely on deception to steal sensitive information.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #128",
+    "input": "Encryption is important because it protects confidential data.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #129",
+    "input": "A firewall helps control network traffic and blocks suspicious connections.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #130",
+    "input": "Malware can damage files, steal data, or disrupt services.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #131",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #132",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #133",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #134",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #135",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "What is malware? #136",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "What is phishing? #137",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "What is ransomware? #138",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "What is firewall? #139",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "What is encryption? #140",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "What is vulnerability? #141",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "What is exploit? #142",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "What is authentication? #143",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "What is botnet? #144",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "What is rootkit? #145",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Explain malware in simple words. #146",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "Explain phishing in simple words. #147",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "Explain ransomware in simple words. #148",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "Explain firewall in simple words. #149",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "Explain encryption in simple words. #150",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "Explain vulnerability in simple words. #151",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "Explain exploit in simple words. #152",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "Explain authentication in simple words. #153",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "Explain botnet in simple words. #154",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "Explain rootkit in simple words. #155",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Translate to Arabic #156",
+    "input": "Malware is malicious software designed to damage or exploit systems.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #157",
+    "input": "Phishing is a social engineering attack used to steal user credentials.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #158",
+    "input": "Ransomware is malware that encrypts files and demands payment.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #159",
+    "input": "A firewall monitors and controls incoming and outgoing network traffic.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #160",
+    "input": "Encryption protects data by converting it into unreadable form.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #161",
+    "input": "A vulnerability is a weakness in a system that can be exploited.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #162",
+    "input": "An exploit is code or a method used to take advantage of a vulnerability.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #163",
+    "input": "Authentication verifies the identity of a user or device.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #164",
+    "input": "A botnet is a group of infected devices controlled by an attacker.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to Arabic #165",
+    "input": "A rootkit is malicious software designed to hide itself inside a system.",
+    "output": "ترجمة تعريف المصطلح إلى العربية."
+  },
+  {
+    "instruction": "Translate to English #166",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #167",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #168",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #169",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Translate to English #170",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "Translation of the Arabic cybersecurity sentence into English."
+  },
+  {
+    "instruction": "Summarize the following text #171",
+    "input": "Cybersecurity includes technologies and processes used to protect systems and networks.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #172",
+    "input": "Phishing attacks rely on deception to steal sensitive information.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #173",
+    "input": "Encryption is important because it protects confidential data.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #174",
+    "input": "A firewall helps control network traffic and blocks suspicious connections.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "Summarize the following text #175",
+    "input": "Malware can damage files, steal data, or disrupt services.",
+    "output": "A short summary of the cybersecurity concept."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #176",
+    "input": "الأمن السيبراني يحمي الأنظمة والشبكات من الهجمات.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #177",
+    "input": "التشفير يحمي البيانات الحساسة من الوصول غير المصرح به.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #178",
+    "input": "التصيد الاحتيالي يستخدم لخداع المستخدم وسرقة بياناته.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #179",
+    "input": "الجدار الناري يراقب حركة المرور داخل الشبكة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "اشرح الجملة التالية #180",
+    "input": "البرمجيات الخبيثة قد تسبب ضررًا كبيرًا للأنظمة.",
+    "output": "هذه الجملة تشرح مفهومًا أساسيًا في الأمن السيبراني."
+  },
+  {
+    "instruction": "What is malware? #181",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "What is phishing? #182",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "What is ransomware? #183",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "What is firewall? #184",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "What is encryption? #185",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "What is vulnerability? #186",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "What is exploit? #187",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "What is authentication? #188",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "What is botnet? #189",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "What is rootkit? #190",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  },
+  {
+    "instruction": "Explain malware in simple words. #191",
+    "input": "",
+    "output": "Malware is malicious software designed to damage or exploit systems."
+  },
+  {
+    "instruction": "Explain phishing in simple words. #192",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "Explain ransomware in simple words. #193",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment."
+  },
+  {
+    "instruction": "Explain firewall in simple words. #194",
+    "input": "",
+    "output": "A firewall monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "Explain encryption in simple words. #195",
+    "input": "",
+    "output": "Encryption protects data by converting it into unreadable form."
+  },
+  {
+    "instruction": "Explain vulnerability in simple words. #196",
+    "input": "",
+    "output": "A vulnerability is a weakness in a system that can be exploited."
+  },
+  {
+    "instruction": "Explain exploit in simple words. #197",
+    "input": "",
+    "output": "An exploit is code or a method used to take advantage of a vulnerability."
+  },
+  {
+    "instruction": "Explain authentication in simple words. #198",
+    "input": "",
+    "output": "Authentication verifies the identity of a user or device."
+  },
+  {
+    "instruction": "Explain botnet in simple words. #199",
+    "input": "",
+    "output": "A botnet is a group of infected devices controlled by an attacker."
+  },
+  {
+    "instruction": "Explain rootkit in simple words. #200",
+    "input": "",
+    "output": "A rootkit is malicious software designed to hide itself inside a system."
+  }
+]

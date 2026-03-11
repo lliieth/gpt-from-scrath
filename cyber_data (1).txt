@@ -1,0 +1,11 @@
+
+Cybersecurity protects systems and networks from digital attacks.
+Malware is malicious software designed to harm systems.
+Phishing is a social engineering attack used to steal user data.
+Ransomware encrypts files and demands payment to restore access.
+A vulnerability is a weakness in a system.
+Exploit code takes advantage of a vulnerability.
+Zero-day vulnerabilities are unknown to developers.
+A firewall protects networks from unauthorized access.
+Encryption protects sensitive information from attackers.
+Authentication verifies the identity of a user.
