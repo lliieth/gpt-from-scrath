@@ -1,0 +1,17 @@
+[
+  {
+    "instruction": "Explain phishing",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to steal user credentials."
+  },
+  {
+    "instruction": "What is malware?",
+    "input": "",
+    "output": "Malware is malicious software designed to damage systems."
+  },
+  {
+    "instruction": "Explain cybersecurity",
+    "input": "",
+    "output": "Cybersecurity protects systems, networks, and data from cyber attacks."
+  }
+]
