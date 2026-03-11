@@ -1,0 +1,12 @@
+[
+ {
+  "instruction": "Explain ransomware",
+  "input": "",
+  "output": "Ransomware is malware that encrypts files and demands payment."
+ },
+ {
+  "instruction": "What is phishing?",
+  "input": "",
+  "output": "Phishing is a social engineering attack to steal credentials."
+ }
+]
