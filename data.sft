@@ -1,0 +1,22 @@
+[
+  {
+    "instruction": "What is phishing?",
+    "input": "",
+    "output": "Phishing is a cyber attack used to trick users into revealing sensitive information."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Cybersecurity protects systems.",
+    "output": "الأمن السيبراني يحمي الأنظمة."
+  },
+  {
+    "instruction": "Summarize the following text",
+    "input": "Cybersecurity includes technologies and processes used to protect systems and networks.",
+    "output": "الأمن السيبراني يحمي الأنظمة باستخدام تقنيات مختلفة."
+  },
+  {
+    "instruction": "Explain malware",
+    "input": "",
+    "output": "Malware is malicious software designed to damage systems."
+  }
+]
