@@ -1,0 +1,27 @@
+[
+  {
+    "instruction": "Explain phishing",
+    "input": "",
+    "output": "Phishing is a social engineering attack used to trick users into revealing sensitive information."
+  },
+  {
+    "instruction": "What is ransomware?",
+    "input": "",
+    "output": "Ransomware is malware that encrypts files and demands payment to restore access."
+  },
+  {
+    "instruction": "Translate to Arabic",
+    "input": "Malware damages systems.",
+    "output": "البرمجيات الخبيثة تضر الأنظمة."
+  },
+  {
+    "instruction": "Define firewall",
+    "input": "",
+    "output": "A firewall is a security system that monitors and controls incoming and outgoing network traffic."
+  },
+  {
+    "instruction": "Explain zero-day vulnerability",
+    "input": "",
+    "output": "A zero-day vulnerability is a software weakness unknown to the vendor and not yet patched."
+  }
+]
